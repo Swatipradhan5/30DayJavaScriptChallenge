@@ -1,3 +1,6 @@
+// Challenge 7
+// Write a JavaScript program to check a pair of numbers and return true if one of the numbers is 50 or if their sum is 50.
+
 function checkValue(a,b){
     let sum=a+b;
 

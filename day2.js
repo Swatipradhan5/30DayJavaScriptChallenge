@@ -1,4 +1,10 @@
-/*  Explanation of line-9
+// Challenge 2:
+// Write a JavaScript function that accepts a string as a parameter and converts the first letter of each word into upper case.
+
+// Example string: 'the quick brown fox'
+// Expected Output: 'The Quick Brown Fox '
+
+/*  Explanation of line-18
 - Fetching the first char of words[0] and converting it to uppercase
 - Concatenating the rest char of words[0] with the first char and storing it to words[0]
 */ 
